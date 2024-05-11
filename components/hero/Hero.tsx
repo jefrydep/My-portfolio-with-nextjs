@@ -5,7 +5,7 @@ export const Hero = () => {
     <div>
       <h1>Hey, soy Jefrydev</h1>
       <div>
-        <p>
+        <p className=" text-blue-700 dark:text-white">
           +15 años de experiencia. Ingeniero de Software y Creador de Contenido
           sobre Programación de Barcelona, España 🇪🇸. Especializado en el
           desarrollo de aplicaciones web únicas.
